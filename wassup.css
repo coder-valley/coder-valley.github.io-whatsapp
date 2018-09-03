@@ -1,0 +1,146 @@
+.profile
+{
+	width: 50px;
+}
+.pro-img
+{
+	margin-right: 20px;
+}
+.list-group-item
+{
+	display: flex;
+}
+.badge
+{
+	height: 19px;
+	margin-top: 6px;
+}
+a:hover
+{
+	text-decoration:none;
+	color: black;
+
+}
+.test:after {
+  content: '\2807';
+  font-size: 27px;
+  color: #2e2e2e
+}
+.dropdown-menu
+{
+	right: 0;
+	left: -130px;
+}
+.navbar
+{
+	border-bottom: 1px solid grey;
+}
+.srch
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.main-msg
+{
+	background-color: #fff;
+}
+.form-inline .mr-sm-2
+{
+	width: 100vw;
+}
+.profile-image
+{
+	width: 45px;
+	height: 45px;
+}
+.fa-whatsapp
+{
+	font-size: 30px;
+	margin-right: 10px;
+}
+.fa-phone
+{
+	font-size: 30px;
+	margin-right: 10px;
+}
+.fa-video-camera
+{
+	font-size: 30px;
+	margin-right: 10px;
+}
+.fa-circle-o
+{
+	font-size: 30px;
+	margin-right: 10px;
+}
+a
+{
+	color: black;
+}
+.cont
+{
+	background-color: #fdebe7;
+}
+.cont-pading
+{
+	background-color: #fdebe7;
+	padding: 0px;
+}
+.date h1
+{
+	text-align: center;
+	font-size: 20px;
+}
+.chit-chat
+{
+	box-shadow: 0px 12px black;
+}
+.chat-heads
+{
+	box-shadow: 0px 0px 11px 2px burlywood;
+	border-radius: 10px;
+	width: 35%;
+	/*height: 27px;*/
+}
+.chat-heads2
+{
+	box-shadow: 0px 0px 11px 2px burlywood;
+	border-radius: 10px;
+	width: 35%;
+	/*height: 37px;*/
+	line-height: 17px;
+}
+.john-msg
+{
+	display: flex;
+}
+.john-msg .form-control
+{
+	width: 85%;
+}
+.john-msg .btn-success
+{
+	margin-left: 10px;
+}
+h6
+{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.doe-name
+{
+	display: flex;
+}
+.last-msg
+{
+	margin-top: 15px;
+}
+.bckgrnd
+{
+	text-align: center;
+	padding-top: 15%;
+}
+.bkground
+{
+	background-color: #f7f9fa;
+}
